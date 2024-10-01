@@ -1,0 +1,1 @@
+# Emacs Script (Standard JavaScript)
